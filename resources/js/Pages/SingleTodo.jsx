@@ -31,7 +31,7 @@ const SingleTodo = ({ singleTodo }) => {
           href="/todos"
           className="px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition-colors duration-200"
         >
-          Back to Todos
+          Back to Blogs
         </Link>
       </div>
     </div>
